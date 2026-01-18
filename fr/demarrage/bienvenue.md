@@ -37,6 +37,10 @@ PitStoply est votre solution tout-en-un pour la gestion de rendez-vous de votre 
       <td><strong>Besoin d'aide ?</strong><br>Consultez notre FAQ</td>
       <td><a href="../faq/questions-frequentes.md">../faq/questions-frequentes.md</a></td>
     </tr>
+    <tr>
+      <td><strong>Une idée ou un bug ?</strong><br>Partagez votre feedback</td>
+      <td><a href="../feedback.md">../feedback.md</a></td>
+    </tr>
   </tbody>
 </table>
 
