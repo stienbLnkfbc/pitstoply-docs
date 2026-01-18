@@ -33,6 +33,17 @@ PitStoply est votre solution tout-en-un pour la gestion de rendez-vous de votre 
       <td><strong>Déjà configuré ?</strong><br>Créez votre premier rendez-vous</td>
       <td><a href="../guides/premier-rendez-vous.md">../guides/premier-rendez-vous.md</a></td>
     </tr>
+  </tbody>
+</table>
+
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><strong>Besoin d'aide ?</strong><br>Consultez notre FAQ</td>
       <td><a href="../faq/questions-frequentes.md">../faq/questions-frequentes.md</a></td>
