@@ -49,6 +49,10 @@
 * [Questions fréquentes](fr/faq/questions-frequentes.md)
 * [Glossaire](fr/faq/glossaire.md)
 
+## Feedback
+
+* [Signaler un bug / Proposer une idée](fr/feedback.md)
+
 ---
 
 ## Deutsch
