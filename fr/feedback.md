@@ -8,7 +8,7 @@ Votre avis compte ! Aidez-nous à améliorer PitStoply en signalant les problèm
 
 Vous avez rencontré un problème ? Faites-le nous savoir !
 
-[**Signaler un bug →**](https://forms.gle/REMPLACER_PAR_VOTRE_LIEN_BUG)
+[**Signaler un bug →**](https://docs.google.com/forms/d/e/1FAIpQLSeIAZx0hIq58SKxNUPd7J0U5KGiWWeXlKlCzEbnc_XyvxMuhA/viewform)
 
 ### Informations utiles à fournir
 
@@ -28,7 +28,7 @@ Pour nous aider à résoudre le problème rapidement :
 
 Une idée pour améliorer PitStoply ? Partagez-la !
 
-[**Proposer une idée →**](https://forms.gle/REMPLACER_PAR_VOTRE_LIEN_FEATURE)
+[**Proposer une idée →**](https://docs.google.com/forms/d/e/1FAIpQLSdGOdc_LVTTpav78kF4To0d_792HJHRFhynXNJ6AHNCgM-xTw/viewform)
 
 ### Comment faire une bonne suggestion
 
