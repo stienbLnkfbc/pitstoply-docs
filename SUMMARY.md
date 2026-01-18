@@ -53,27 +53,26 @@
 
 * [Signaler un bug / Proposer une idée](fr/feedback.md)
 
----
+## 🇩🇪 Deutsch
 
-## Deutsch
+* [Willkommen / Accueil DE](de/erste-schritte/willkommen.md)
 
-### Erste Schritte
+## DE - Erste Schritte
 
-* [Willkommen bei PitStoply](de/erste-schritte/willkommen.md)
-* [Registrierung und Kontoerstellung](de/erste-schritte/registrierung.md)
+* [Registrierung](de/erste-schritte/registrierung.md)
 * [Erstkonfiguration](de/erste-schritte/erstkonfiguration.md)
 * [Start-Checkliste](de/erste-schritte/start-checkliste.md)
 
-### Anleitungen
+## DE - Anleitungen
 
-* [Ihren ersten Termin erstellen](de/anleitungen/erster-termin.md)
+* [Ersten Termin erstellen](de/anleitungen/erster-termin.md)
 * [Kunden verwalten](de/anleitungen/kundenverwaltung.md)
-* [Den Kalender verwenden](de/anleitungen/kalender.md)
-* [Öffentliche Buchungsseite](de/anleitungen/buchungsseite.md)
-* [Kundenportal (QR-Code)](de/anleitungen/kundenportal-qr.md)
-* [PDF-Berichte generieren](de/anleitungen/pdf-berichte.md)
+* [Kalender verwenden](de/anleitungen/kalender.md)
+* [Buchungsseite](de/anleitungen/buchungsseite.md)
+* [Kundenportal (QR)](de/anleitungen/kundenportal-qr.md)
+* [PDF-Berichte](de/anleitungen/pdf-berichte.md)
 
-### Konfiguration
+## DE - Konfiguration
 
 * [Unternehmensprofil](de/konfiguration/unternehmensprofil.md)
 * [Filialen und Hebebühnen](de/konfiguration/filialen-hebebuehnen.md)
@@ -84,26 +83,23 @@
 * [E-Mail-Benachrichtigungen](de/konfiguration/e-mail-benachrichtigungen.md)
 * [SMS-Benachrichtigungen](de/konfiguration/sms-benachrichtigungen.md)
 * [Externer Kalender](de/konfiguration/externer-kalender.md)
-* [Erscheinungsbild und Theme](de/konfiguration/erscheinungsbild.md)
+* [Erscheinungsbild](de/konfiguration/erscheinungsbild.md)
 
-### Abrechnung
+## DE - Abrechnung
 
 * [Abonnementpläne](de/abrechnung/plaene.md)
-* [Mein Abonnement verwalten](de/abrechnung/abonnement-verwalten.md)
+* [Abonnement verwalten](de/abrechnung/abonnement-verwalten.md)
 * [SMS-Guthaben](de/abrechnung/sms-guthaben.md)
 
-### Fehlerbehebung
+## DE - Fehlerbehebung
 
 * [Anmeldeprobleme](de/fehlerbehebung/anmeldung.md)
 * [Buchungsprobleme](de/fehlerbehebung/buchungen.md)
 * [SMS-Probleme](de/fehlerbehebung/sms.md)
 * [Zahlungsprobleme](de/fehlerbehebung/zahlung.md)
 
-### FAQ
+## DE - FAQ & Feedback
 
 * [Häufige Fragen](de/faq/haeufige-fragen.md)
 * [Glossar](de/faq/glossar.md)
-
-### Feedback
-
-* [Bug melden / Idee vorschlagen](de/feedback.md)
+* [Bug melden / Idee](de/feedback.md)
