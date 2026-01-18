@@ -8,13 +8,13 @@ Après votre première connexion, vous serez guidé par un assistant de configur
 
 ### Informations requises
 
-| Champ | Description | Exemple |
-|-------|-------------|---------|
-| **Nom de l'entreprise** | Le nom affiché à vos clients | Garage Martin SA |
-| **Slug** | URL personnalisée de votre page | garage-martin-sa |
-| **Adresse** | Adresse complète | Rue du Commerce 12, 1003 Lausanne |
-| **Téléphone** | Numéro de contact principal | +41 21 123 45 67 |
-| **Email** | Email de contact | contact@garage-martin.ch |
+| Champ                   | Description                     | Exemple                           |
+| ----------------------- | ------------------------------- | --------------------------------- |
+| **Nom de l'entreprise** | Le nom affiché à vos clients    | Garage Martin SA                  |
+| **Slug**                | URL personnalisée de votre page | garage-martin-sa                  |
+| **Adresse**             | Adresse complète                | Rue du Commerce 12, 1003 Lausanne |
+| **Téléphone**           | Numéro de contact principal     | +41 21 123 45 67                  |
+| **Email**               | Email de contact                | contact@garage-martin.ch          |
 
 {% hint style="info" %}
 **Le slug** définit l'adresse de votre page de réservation publique. Par exemple : `pitstoply.ch/garage-martin-sa`
@@ -38,25 +38,22 @@ Un lift représente un poste de travail où un rendez-vous peut être effectué 
 
 {% hint style="warning" %}
 **Important** : Le nombre de succursales et lifts dépend de votre plan d'abonnement.
-
-| Plan | Succursales | Lifts |
-|------|-------------|-------|
-| Independent | 1 | 1 |
-| Multi-Lift | 1-3 | Illimité |
-| Network | Illimité | Illimité |
 {% endhint %}
+
+| Plan                     | Succursales | Lifts    |
+| ------------------------ | ----------- | -------- |
+| Independent              | 1           | 1        |
+| Multi-Lift               | 1           | Illimité |
+| Succursale Additionnelle | +1          | -        |
 
 ## Étape 3 : Services et durées
 
 Configurez les types de services que vous proposez :
 
-| Service type | Description | Durée par défaut |
-|--------------|-------------|------------------|
-| Changement de pneus | Montage/démontage complet | 30 min |
-| Stockage pneus | Dépôt pour la saison | 15 min |
-| Réparation pneu | Réparation crevaison | 45 min |
-| Équilibrage | Équilibrage seul | 20 min |
-| Contrôle | Inspection des pneus | 15 min |
+| Service type                  | Description               | Durée par défaut |
+| ----------------------------- | ------------------------- | ---------------- |
+| Changement de pneus           | Montage/démontage complet | 60 min           |
+| Changement de roues complètes | 2 jeux de jantes          | 30 min           |
 
 ### Personnaliser les durées
 
@@ -67,16 +64,20 @@ Vous pouvez ajuster la durée de chaque service selon votre organisation. Ces du
 Configurez comment vos clients sont notifiés :
 
 ### Email (inclus)
-- **Confirmation** : Envoyée automatiquement après réservation
-- **Rappel** : Envoyé 24h avant le rendez-vous
-- **Modification** : Envoyée si le RDV est modifié
+
+* **Confirmation** : Envoyée automatiquement après réservation
+* **Annulation** : Envoyée automatiquement après l'annulation du rendez-vous
+* **Rappel** : Envoyé 24h avant le rendez-vous
+* **Rappel Jour J** : Envoyé 2h avant le rendez-vous
+* **Report** : Envoyée si le RDV est modifié
 
 ### SMS (crédits requis)
-- Même principe que les emails
-- Nécessite d'acheter des crédits SMS
-- Configurable dans Paramètres > SMS
 
-{% hint style="tip" %}
+* Même principe que les emails
+* Nécessite d'acheter des crédits SMS
+* Configurable dans Paramètres > SMS
+
+{% hint style="info" %}
 **Recommandation** : Activez au minimum les rappels par email pour réduire les no-shows.
 {% endhint %}
 
@@ -88,11 +89,11 @@ Une fois ces étapes complétées :
 2. ✅ Vous pouvez créer des rendez-vous depuis le dashboard
 3. ✅ Vos clients peuvent réserver en ligne
 
----
+***
 
 ## Prochaines étapes recommandées
 
-- [ ] [Personnaliser votre apparence](../configuration/apparence.md) (logo, couleurs)
-- [ ] [Configurer les fermetures](../configuration/fermetures.md) (congés, jours fériés)
-- [ ] [Ajouter des utilisateurs](../configuration/utilisateurs.md) (employés)
-- [ ] [Tester une réservation](../guides/premier-rendez-vous.md) côté client
+* [ ] [Personnaliser votre apparence](../configuration/apparence.md) (logo, couleurs)
+* [ ] [Configurer les fermetures](../configuration/fermetures.md) (congés, jours fériés)
+* [ ] [Ajouter des utilisateurs](../configuration/utilisateurs.md) (employés)
+* [ ] [Tester une réservation](../guides/premier-rendez-vous.md) côté client
