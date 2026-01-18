@@ -1,6 +1,6 @@
 # Abonnementpläne
 
-PitStoply bietet verschiedene Pläne, die auf die Größe Ihrer Werkstatt abgestimmt sind.
+PitStoply bietet mehrere Pläne, die an die Grösse Ihrer Werkstatt angepasst sind.
 
 ## Planvergleich
 
@@ -13,30 +13,30 @@ PitStoply bietet verschiedene Pläne, die auf die Größe Ihrer Werkstatt abgest
 | **Online-Buchung** | ✅ | ✅ | ✅ |
 | **E-Mail-Benachrichtigungen** | ✅ | ✅ | ✅ |
 | **SMS-Benachrichtigungen** | ✅ (Guthaben) | ✅ (Guthaben) | ✅ (Guthaben) |
-| **Theme-Anpassung** | ✅ | ✅ | ✅ |
+| **Theme-Personalisierung** | ✅ | ✅ | ✅ |
 | **PDF-Berichte** | ✅ | ✅ | ✅ |
-| **Externe Kalender-Sync** | ✅ | ✅ | ✅ |
-| **Eigene Domain** | ❌ | ✅ | ✅ |
+| **Externe Kalendersync** | ✅ | ✅ | ✅ |
+| **Benutzerdefinierte Domain** | ❌ | ✅ | ✅ |
 | **Prioritäts-Support** | ❌ | ✅ | ✅ |
 
-## Welcher Plan ist der richtige?
+## Welchen Plan wählen?
 
 ### Independent (290 CHF/Jahr)
 Ideal für unabhängige Werkstätten mit einem einzigen Arbeitsplatz.
 
 ### Multi-Lift (490 CHF/Jahr)
-Für Werkstätten mit mehreren Hebebühnen oder kleinen Filialen.
+Für Werkstätten mit mehreren Hebebühnen oder mehreren kleinen Filialen.
 
 ### Network (auf Anfrage)
-Für Werkstattnetzwerke oder große Strukturen, die eine maßgeschneiderte Lösung benötigen.
+Für Werkstattnetzwerke oder grosse Strukturen, die eine massgeschneiderte Lösung benötigen.
 
 ## Plan wechseln
 
-Sie können Ihren Plan jederzeit unter **Abrechnung > Pläne** ändern.
+Sie können den Plan jederzeit unter **Abrechnung > Pläne** wechseln.
 
-- **Upgrade**: Sofort wirksam, anteilige Berechnung
-- **Downgrade**: Wirksam am Ende der aktuellen Periode
+- **Upgrade**: Sofort wirksam, anteilig berechnet
+- **Downgrade**: Wirksam am Ende des aktuellen Zeitraums
 
 {% hint style="info" %}
-Ein Downgrade auf einen Plan mit weniger Funktionen (z.B. weniger Filialen) erfordert das vorherige Löschen überzähliger Elemente.
+Das Downgrade auf einen Plan mit weniger Funktionen (z.B. weniger Filialen) erfordert das Löschen der überzähligen Elemente vor dem Wechsel.
 {% endhint %}

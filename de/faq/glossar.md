@@ -3,7 +3,7 @@
 In PitStoply verwendete Begriffe.
 
 | Begriff | Beschreibung |
-|---------|-------------|
+|---------|--------------|
 | **Garage** | Ihr Unternehmen |
 | **Branch** | Filiale - ein physischer Standort |
 | **Lift** | Arbeitsplatz (Hebebühne) |
@@ -11,5 +11,5 @@ In PitStoply verwendete Begriffe.
 | **Customer** | Kunde Ihrer Werkstatt |
 | **Vehicle** | Fahrzeug eines Kunden |
 | **Service** | Art der Dienstleistung |
-| **Slot** | Verfügbarer Zeitslot |
+| **Slot** | Verfügbares Zeitfenster |
 | **Booking** | Online-Buchung |
