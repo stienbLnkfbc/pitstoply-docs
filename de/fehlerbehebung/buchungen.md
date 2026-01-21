@@ -176,7 +176,7 @@ Wenn Leistungsprobleme anhalten, kontaktieren Sie den Support mit Details zu Ihr
 
 Wenn keine Lösung funktioniert:
 
-- **E-Mail**: support@pitstoply.ch
+- **Kontaktformular**: Besuchen Sie unsere [Feedback-Seite](../feedback.md), um uns über ein Formular zu kontaktieren
 - Fügen Sie bei:
   - Beschreibung des Problems
   - Betroffenes Datum und Uhrzeit

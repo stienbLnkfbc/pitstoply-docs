@@ -78,7 +78,7 @@ Les factures Stripe incluent :
 ### Contestation
 
 Si vous pensez qu'un prélèvement est injustifié :
-1. Contactez support@pitstoply.ch avec les détails
+1. Consultez notre [page de feedback](../feedback.md) pour nous contacter via le formulaire avec les détails
 2. Ne faites pas d'opposition bancaire directement (cela peut bloquer votre compte)
 
 ---
@@ -130,7 +130,7 @@ Si vous pensez qu'un prélèvement est injustifié :
 - Cas exceptionnels étudiés au cas par cas
 
 **Demander un remboursement :**
-1. Contactez support@pitstoply.ch
+1. Consultez notre [page de feedback](../feedback.md) pour remplir le formulaire de contact
 2. Expliquez votre situation
 3. Joignez les factures concernées
 
@@ -207,7 +207,7 @@ PitStoply ne voit jamais votre numéro de carte complet.
 
 Pour les problèmes de paiement :
 
-- **Email** : support@pitstoply.ch
+- **Formulaire de contact** : Consultez notre [page de feedback](../feedback.md) pour nous contacter
 - **Informations à fournir** :
   - Nom du garage
   - Email du compte

@@ -159,7 +159,7 @@ Am Ende der Testphase:
 <details>
 <summary><strong>Kann ich eine Rückerstattung erhalten?</strong></summary>
 
-Jahresabonnements sind in der Regel nicht erstattungsfähig. Kontaktieren Sie support@pitstoply.ch für Ausnahmefälle.
+Jahresabonnements sind in der Regel nicht erstattungsfähig. Besuchen Sie unsere [Feedback-Seite](../feedback.md), um uns bei Ausnahmefällen über ein Formular zu kontaktieren.
 
 </details>
 

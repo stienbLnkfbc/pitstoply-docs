@@ -177,7 +177,7 @@ Ja, das Dashboard mit KPIs ist für Mitarbeiter sichtbar. Nur die Abrechnung (Ab
 <details>
 <summary><strong>Wie übertrage ich die Eigentümerschaft des Kontos?</strong></summary>
 
-Die Übertragung der Eigentümerschaft erfordert die Kontaktaufnahme mit dem Support unter support@pitstoply.ch.
+Die Übertragung der Eigentümerschaft erfordert die Kontaktaufnahme mit dem Support über unsere [Feedback-Seite](../feedback.md), wo Sie ein Formular ausfüllen können.
 
 </details>
 

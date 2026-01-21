@@ -174,7 +174,7 @@ Si les problèmes de performance persistent, contactez le support avec des déta
 
 Si aucune solution ne fonctionne :
 
-* **Email** : support@pitstoply.ch
+* **Formulaire de contact** : Consultez notre [page de feedback](../feedback.md) pour nous contacter
 * Incluez :
   * Description du problème
   * Date et heure concernées

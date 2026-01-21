@@ -78,7 +78,7 @@ Die Stripe-Rechnungen enthalten:
 ### Einspruch
 
 Wenn Sie glauben, dass eine Abbuchung ungerechtfertigt ist:
-1. Kontaktieren Sie support@pitstoply.ch mit den Details
+1. Besuchen Sie unsere [Feedback-Seite](../feedback.md), um uns über das Formular mit den Details zu kontaktieren
 2. Erheben Sie nicht direkt einen Bankeinspruch (dies kann Ihr Konto sperren)
 
 ---
@@ -130,7 +130,7 @@ Wenn Sie glauben, dass eine Abbuchung ungerechtfertigt ist:
 - Ausnahmefälle werden einzeln geprüft
 
 **Rückerstattung beantragen:**
-1. Kontaktieren Sie support@pitstoply.ch
+1. Besuchen Sie unsere [Feedback-Seite](../feedback.md), um das Kontaktformular auszufüllen
 2. Erklären Sie Ihre Situation
 3. Fügen Sie die betreffenden Rechnungen bei
 
@@ -207,7 +207,7 @@ PitStoply sieht niemals Ihre vollständige Kartennummer.
 
 Für Zahlungsprobleme:
 
-- **E-Mail**: support@pitstoply.ch
+- **Kontaktformular**: Besuchen Sie unsere [Feedback-Seite](../feedback.md), um uns zu kontaktieren
 - **Anzugebende Informationen**:
   - Name der Werkstatt
   - Konto-E-Mail

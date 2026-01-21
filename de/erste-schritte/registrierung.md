@@ -111,6 +111,6 @@ Es gibt nur ein "Inhaber"-Konto pro Werkstatt. Sie können **Mitarbeiter-Benutze
 <details>
 <summary><strong>Wie lösche ich mein Konto?</strong></summary>
 
-Kontaktieren Sie den Support unter support@pitstoply.ch, um die Löschung Ihres Kontos und Ihrer Daten zu beantragen.
+Besuchen Sie unsere [Feedback-Seite](../feedback.md), um die Löschung Ihres Kontos und Ihrer Daten über das Kontaktformular zu beantragen.
 
 </details>

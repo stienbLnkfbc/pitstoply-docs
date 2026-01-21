@@ -199,5 +199,5 @@ Wenn das Problem weiterhin besteht, [kontaktieren Sie den Support](#support-kont
 
 Sie haben keine Antwort auf Ihre Frage gefunden?
 
-- **E-Mail**: support@pitstoply.ch
+- **Kontaktformular**: Besuchen Sie unsere [Feedback-Seite](../feedback.md), um uns über ein Formular zu kontaktieren
 - **Aus der App**: Menü > Support

@@ -162,7 +162,7 @@ Si vous changez d'avis :
 
 <summary><strong>Puis-je obtenir un remboursement ?</strong></summary>
 
-Les abonnements annuels ne sont généralement pas remboursables. Contactez support@pitstoply.ch pour les cas exceptionnels.
+Les abonnements annuels ne sont généralement pas remboursables. Consultez notre [page de feedback](../feedback.md) pour nous contacter via un formulaire dédié en cas de situation exceptionnelle.
 
 </details>
 

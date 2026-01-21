@@ -48,11 +48,11 @@ Alle Vorschläge werden gelesen und für die PitStoply-Roadmap berücksichtigt.
 
 | Kanal | Verwendung |
 |-------|------------|
-| **E-Mail** | [support@pitstoply.ch](mailto:support@pitstoply.ch) |
+| **Formular** | Verwenden Sie die obigen Formulare, um uns zu kontaktieren |
 | **Dokumentation** | Konsultieren Sie zuerst unsere [FAQ](faq/haeufige-fragen.md) |
 
 {% hint style="warning" %}
-Für dringende Probleme (Ausfall, Arbeitsunfähigkeit), kontaktieren Sie direkt support@pitstoply.ch.
+Für dringende Probleme (Ausfall, Arbeitsunfähigkeit), kontaktieren Sie direkt [contact@pitstoply.ch](mailto:contact@pitstoply.ch).
 {% endhint %}
 
 ---

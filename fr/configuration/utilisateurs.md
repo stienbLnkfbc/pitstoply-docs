@@ -177,7 +177,7 @@ Oui, le dashboard avec les KPIs est visible par les employés. Seule la facturat
 <details>
 <summary><strong>Comment transférer la propriété du compte ?</strong></summary>
 
-Le transfert de propriété nécessite de contacter le support à support@pitstoply.ch.
+Le transfert de propriété nécessite de contacter le support via notre [page de feedback](../feedback.md) où vous pouvez remplir un formulaire pour expliquer votre demande.
 
 </details>
 

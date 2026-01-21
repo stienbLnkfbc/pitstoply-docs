@@ -104,7 +104,7 @@ Wenn das Problem weiterhin besteht, machen Sie einen Screenshot des Fehlers und 
 
 Wenn keine Lösung funktioniert:
 
-- **E-Mail**: support@pitstoply.ch
+- **Kontaktformular**: Besuchen Sie unsere [Feedback-Seite](../feedback.md), um uns über ein Formular zu kontaktieren
 - Fügen Sie bei:
   - Ihre Anmelde-E-Mail-Adresse
   - Der Name Ihrer Werkstatt

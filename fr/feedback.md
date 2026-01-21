@@ -48,11 +48,11 @@ Toutes les suggestions sont lues et prises en compte pour la roadmap de PitStopl
 
 | Canal | Usage |
 |-------|-------|
-| **Email** | [support@pitstoply.ch](mailto:support@pitstoply.ch) |
+| **Formulaire** | Utilisez les formulaires ci-dessus pour nous contacter |
 | **Documentation** | Consultez d'abord notre [FAQ](faq/questions-frequentes.md) |
 
 {% hint style="warning" %}
-Pour les problèmes urgents (panne, impossibilité de travailler), contactez directement support@pitstoply.ch.
+Pour les problèmes urgents (panne, impossibilité de travailler), contactez directement [contact@pitstoply.ch](mailto:contact@pitstoply.ch).
 {% endhint %}
 
 ---

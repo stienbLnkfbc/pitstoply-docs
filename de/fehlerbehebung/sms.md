@@ -195,7 +195,7 @@ E-Mails werden weiterhin gesendet, wenn eine E-Mail-Adresse hinterlegt ist.
 
 Für anhaltende Probleme:
 
-- **E-Mail**: support@pitstoply.ch
+- **Kontaktformular**: Besuchen Sie unsere [Feedback-Seite](../feedback.md), um uns zu kontaktieren
 - Fügen Sie bei:
   - Betroffene Telefonnummer (verwendetes Format)
   - Datum und Uhrzeit des geplanten Versands
