@@ -29,6 +29,8 @@ Utilisez cette checklist pour vous assurer que tout est prêt avant d'inviter vo
   * Icône affichée dans l'onglet du navigateur
 * [ ] **Hero Image uploadé**
   * Image de fond d'écran sur la pagea de réservations client
+  * Format recommandé : JPG
+  * Dimension idéales : 1920x1080 pixels minimum
 
 ## Notifications
 
@@ -45,7 +47,7 @@ Utilisez cette checklist pour vous assurer que tout est prêt avant d'inviter vo
 ## Vérification finale
 
 * [ ] **Page de réservation testée**
-  1. Ouvrez `pitstoply.ch/votre-slug`
+  1. Ouvrez app.`pitstoply.ch/votre-slug`
   2. Sélectionnez un service
   3. Choisissez une date et un créneau
   4. Complétez avec vos infos de test
@@ -68,7 +70,7 @@ Utilisez cette checklist pour vous assurer que tout est prêt avant d'inviter vo
 
 | Méthode             | Description                                 |
 | ------------------- | ------------------------------------------- |
-| **Lien direct**     | `pitstoply.ch/votre-slug`                   |
+| **Lien direct**     | `app.pitstoply.ch/votre-slug`               |
 | **QR Code**         | Générez un QR code pointant vers votre page |
 | **Site web**        | Intégrez un bouton "Prendre RDV"            |
 | **Signature email** | Ajoutez le lien à votre signature           |

@@ -11,10 +11,11 @@ Après votre première connexion, vous serez guidé par un assistant de configur
 | Champ                   | Description                     | Exemple                           |
 | ----------------------- | ------------------------------- | --------------------------------- |
 | **Nom de l'entreprise** | Le nom affiché à vos clients    | Garage Martin SA                  |
-| **Slug**                | URL personnalisée de votre page | garage-martin-sa                  |
+| **Identifiant URL**     | URL personnalisée de votre page | garage-martin-sa                  |
 | **Adresse**             | Adresse complète                | Rue du Commerce 12, 1003 Lausanne |
 | **Téléphone**           | Numéro de contact principal     | +41 21 123 45 67                  |
 | **Email**               | Email de contact                | contact@garage-martin.ch          |
+| **Logo**                | Logo de votre entreprise        | logo.png                          |
 
 {% hint style="info" %}
 **Le slug** définit l'adresse de votre page de réservation publique. Par exemple : `pitstoply.ch/garage-martin-sa`

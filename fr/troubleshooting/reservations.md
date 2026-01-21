@@ -2,7 +2,7 @@
 
 Solutions aux problèmes courants liés aux réservations et au calendrier.
 
----
+***
 
 ## Aucun créneau disponible
 
@@ -10,33 +10,30 @@ Solutions aux problèmes courants liés aux réservations et au calendrier.
 
 **Causes possibles :**
 
-| Cause | Solution |
-|-------|----------|
-| Horaires non configurés | Vérifiez **Paramètres > Horaires** |
-| Jour fermé | Vérifiez que le jour n'est pas marqué comme fermé |
-| Blocage actif | Vérifiez **Paramètres > Fermetures** |
-| Tous les lifts occupés | Les créneaux sont réellement complets |
-| Calendrier externe | Un événement externe bloque le créneau |
+| Cause                   | Solution                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| Horaires non configurés | Vérifiez **Paramètres > Horaires**                                             |
+| Horaires -> Jour fermé  | Vérifiez que le jour ou le lift n'est pas marqué comme fermé dans les horaires |
+| Blocage actif           | Vérifiez **Paramètres > Fermetures**                                           |
+| Tous les lifts occupés  | Les créneaux sont réellement complets                                          |
+| Calendrier externe      | Un événement externe bloque le créneau                                         |
 
 ### Vérifications à faire
 
 1. **Horaires configurés ?**
-   - Allez dans **Paramètres > Horaires**
-   - Vérifiez que le jour concerné a des heures d'ouverture
-
+   * Allez dans **Paramètres > Horaires**
+   * Vérifiez que le jour concerné a des heures d'ouverture
 2. **Blocages actifs ?**
-   - Allez dans **Paramètres > Fermetures**
-   - Vérifiez qu'il n'y a pas de blocage sur cette période
-
+   * Allez dans **Paramètres > Fermetures**
+   * Vérifiez qu'il n'y a pas de blocage sur cette période
 3. **Calendrier externe ?**
-   - Si vous avez synchronisé un calendrier externe
-   - Vérifiez qu'un événement ne bloque pas le créneau
-
+   * Si vous avez synchronisé un calendrier externe
+   * Vérifiez qu'un événement ne bloque pas le créneau
 4. **Tous les lifts ?**
-   - Vérifiez que vous avez au moins un lift actif
-   - Vérifiez les horaires spécifiques de chaque lift
+   * Vérifiez que vous avez au moins un lift actif
+   * Vérifiez les horaires spécifiques de chaque lift
 
----
+***
 
 ## Le créneau a disparu
 
@@ -53,7 +50,7 @@ Solutions aux problèmes courants liés aux réservations et au calendrier.
 
 Consultez le calendrier à cette date pour voir ce qui occupe le créneau.
 
----
+***
 
 ## Impossible de créer un rendez-vous
 
@@ -61,12 +58,12 @@ Consultez le calendrier à cette date pour voir ce qui occupe le créneau.
 
 **Erreurs courantes :**
 
-| Message | Cause | Solution |
-|---------|-------|----------|
-| "Créneau non disponible" | Déjà réservé | Choisissez un autre créneau |
-| "Client requis" | Pas de client sélectionné | Sélectionnez ou créez un client |
-| "Véhicule requis" | Pas de véhicule | Ajoutez un véhicule au client |
-| "Hors horaires" | Créneau hors horaires d'ouverture | Vérifiez les horaires |
+| Message                  | Cause                             | Solution                        |
+| ------------------------ | --------------------------------- | ------------------------------- |
+| "Créneau non disponible" | Déjà réservé                      | Choisissez un autre créneau     |
+| "Client requis"          | Pas de client sélectionné         | Sélectionnez ou créez un client |
+| "Véhicule requis"        | Pas de véhicule                   | Ajoutez un véhicule au client   |
+| "Hors horaires"          | Créneau hors horaires d'ouverture | Vérifiez les horaires           |
 
 ### Le formulaire ne se charge pas
 
@@ -75,7 +72,7 @@ Consultez le calendrier à cette date pour voir ce qui occupe le créneau.
 3. Essayez un autre navigateur
 4. Vérifiez votre connexion internet
 
----
+***
 
 ## Rendez-vous non visible dans le calendrier
 
@@ -94,7 +91,7 @@ Consultez le calendrier à cette date pour voir ce qui occupe le créneau.
 2. Tapez le nom du client ou la plaque
 3. Cliquez sur le RDV pour y accéder directement
 
----
+***
 
 ## Le client ne peut pas modifier son RDV
 
@@ -105,6 +102,7 @@ Consultez le calendrier à cette date pour voir ce qui occupe le créneau.
 1. **Lien expiré** : Les liens ont une durée de validité limitée
 2. **RDV déjà passé** : On ne peut pas modifier un RDV passé
 3. **RDV annulé** : Le RDV a peut-être été annulé
+4. Délais modifiable dépassé : Le RDV est trop proche dans le temps (paramètre généraux -> général)
 
 ### Solutions
 
@@ -112,7 +110,7 @@ Consultez le calendrier à cette date pour voir ce qui occupe le créneau.
 2. Modifiez le RDV vous-même depuis le dashboard
 3. Créez un nouveau RDV si nécessaire
 
----
+***
 
 ## Conflit de rendez-vous
 
@@ -124,7 +122,7 @@ Cela ne devrait pas arriver car PitStoply vérifie les conflits. Si cela se prod
 2. **Déplacez un RDV** : Modifiez l'un des deux pour résoudre le conflit
 3. **Contactez le support** si le problème persiste
 
----
+***
 
 ## Notifications non envoyées
 
@@ -137,7 +135,7 @@ Cela ne devrait pas arriver car PitStoply vérifie les conflits. Si cela se prod
 
 [Voir le guide de dépannage SMS](sms.md)
 
----
+***
 
 ## Problèmes avec la page de réservation publique
 
@@ -153,7 +151,7 @@ Cela ne devrait pas arriver car PitStoply vérifie les conflits. Si cela se prod
 2. Vérifiez qu'au moins un **lift est actif**
 3. Vérifiez les **horaires** de la succursale/lift
 
----
+***
 
 ## Performance lente
 
@@ -170,15 +168,15 @@ Cela ne devrait pas arriver car PitStoply vérifie les conflits. Si cela se prod
 Si les problèmes de performance persistent, contactez le support avec des détails sur votre situation (nombre de RDV, navigateur utilisé).
 {% endhint %}
 
----
+***
 
 ## Contact support
 
 Si aucune solution ne fonctionne :
 
-- **Email** : support@pitstoply.ch
-- Incluez :
-  - Description du problème
-  - Date et heure concernées
-  - Captures d'écran si possible
-  - Navigateur et appareil utilisés
+* **Email** : support@pitstoply.ch
+* Incluez :
+  * Description du problème
+  * Date et heure concernées
+  * Captures d'écran si possible
+  * Navigateur et appareil utilisés

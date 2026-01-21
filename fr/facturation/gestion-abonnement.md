@@ -11,28 +11,28 @@ Consultez et gérez votre abonnement PitStoply : changement de plan, mise à jou
 Seul le **propriétaire** du compte a accès à la section facturation.
 {% endhint %}
 
----
+***
 
 ## Informations de l'abonnement
 
 ### Ce que vous voyez
 
-| Information | Description |
-|-------------|-------------|
-| **Plan actuel** | Independent, Multi-Lift ou Network |
-| **Statut** | Actif, En période d'essai, Expiré |
-| **Prochaine facturation** | Date du prochain prélèvement |
-| **Moyen de paiement** | Carte enregistrée |
+| Information               | Description                                        |
+| ------------------------- | -------------------------------------------------- |
+| **Plan actuel**           | Independent, Multi-Lift (et nombre de succursales) |
+| **Statut**                | Actif, En période d'essai, Expiré                  |
+| **Prochaine facturation** | Date du prochain prélèvement                       |
+| **Moyen de paiement**     | Carte enregistrée                                  |
 
----
+***
 
 ## Portail client Stripe
 
 PitStoply utilise **Stripe** pour la gestion des paiements. Vous pouvez accéder au portail Stripe pour :
 
-- Voir vos factures
-- Mettre à jour votre carte
-- Télécharger les reçus
+* Voir vos factures
+* Mettre à jour votre carte
+* Télécharger les reçus
 
 ### Accéder au portail
 
@@ -41,7 +41,7 @@ PitStoply utilise **Stripe** pour la gestion des paiements. Vous pouvez accéder
 3. Effectuez vos modifications
 4. Revenez à PitStoply
 
----
+***
 
 ## Changer de plan
 
@@ -53,9 +53,10 @@ PitStoply utilise **Stripe** pour la gestion des paiements. Vous pouvez accéder
 4. La différence de prix est calculée au prorata
 
 **Exemple :**
-- Vous passez de Independent (290 CHF) à Multi-Lift (490 CHF)
-- En milieu d'année, vous payez la différence proratisée
-- À la prochaine échéance, le nouveau prix s'applique
+
+* Vous passez de Independent (290 CHF) à Multi-Lift (490 CHF)
+* En milieu d'année, vous payez la différence proratisée
+* À la prochaine échéance, le nouveau prix s'applique
 
 ### Downgrade (passer à un plan inférieur)
 
@@ -67,7 +68,7 @@ PitStoply utilise **Stripe** pour la gestion des paiements. Vous pouvez accéder
 **Avant un downgrade**, vérifiez que vous respectez les limites du nouveau plan (nombre de succursales, lifts, utilisateurs). Vous devrez peut-être supprimer des éléments en excès.
 {% endhint %}
 
----
+***
 
 ## Mettre à jour le moyen de paiement
 
@@ -80,14 +81,14 @@ PitStoply utilise **Stripe** pour la gestion des paiements. Vous pouvez accéder
 
 ### Cartes acceptées
 
-| Type | Accepté |
-|------|---------|
-| Visa | ✅ |
-| Mastercard | ✅ |
-| American Express | ✅ |
-| TWINT | ⚠️ Selon disponibilité |
+| Type             | Accepté                |
+| ---------------- | ---------------------- |
+| Visa             | ✅                      |
+| Mastercard       | ✅                      |
+| American Express | ✅                      |
+| TWINT            | ⚠️ Selon disponibilité |
 
----
+***
 
 ## Factures
 
@@ -99,12 +100,12 @@ PitStoply utilise **Stripe** pour la gestion des paiements. Vous pouvez accéder
 
 ### Contenu d'une facture
 
-- Période facturée
-- Détail du plan
-- Montant HT et TVA
-- Total payé
+* Période facturée
+* Détail du plan
+* Montant HT et TVA
+* Total payé
 
----
+***
 
 ## Annuler l'abonnement
 
@@ -117,11 +118,11 @@ PitStoply utilise **Stripe** pour la gestion des paiements. Vous pouvez accéder
 
 ### Ce qui se passe après annulation
 
-| Période | Accès |
-|---------|-------|
-| Jusqu'à expiration | Accès complet |
-| Après expiration | Accès en lecture seule |
-| 30 jours après | Données archivées |
+| Période            | Accès                  |
+| ------------------ | ---------------------- |
+| Jusqu'à expiration | Accès complet          |
+| Après expiration   | Accès en lecture seule |
+| 30 jours après     | Données archivées      |
 
 {% hint style="warning" %}
 **Attention** : Après 90 jours d'inactivité, les données peuvent être supprimées. Exportez vos données avant annulation si nécessaire.
@@ -136,27 +137,29 @@ Si vous changez d'avis :
 3. Sélectionnez un plan et procédez au paiement
 4. Votre compte est réactivé avec vos données
 
----
+***
 
 ## Période d'essai
 
 ### Pendant l'essai
 
-- Accès complet aux fonctionnalités du plan choisi
-- Pas de prélèvement
-- Rappel avant la fin de l'essai
+* Accès complet aux fonctionnalités du plan choisi
+* Pas de prélèvement
+* Rappel avant la fin de l'essai
 
 ### Fin de l'essai
 
 À la fin de la période d'essai :
-- Si une carte est enregistrée : prélèvement automatique
-- Si pas de carte : accès restreint jusqu'au paiement
 
----
+* Si une carte est enregistrée : prélèvement automatique
+* Si pas de carte : accès restreint jusqu'au paiement
+
+***
 
 ## Questions fréquentes
 
 <details>
+
 <summary><strong>Puis-je obtenir un remboursement ?</strong></summary>
 
 Les abonnements annuels ne sont généralement pas remboursables. Contactez support@pitstoply.ch pour les cas exceptionnels.
@@ -164,6 +167,7 @@ Les abonnements annuels ne sont généralement pas remboursables. Contactez supp
 </details>
 
 <details>
+
 <summary><strong>Que se passe-t-il si le paiement échoue ?</strong></summary>
 
 Stripe réessaie automatiquement plusieurs fois. Vous recevez des notifications pour mettre à jour votre carte. Après plusieurs échecs, l'accès est suspendu.
@@ -171,13 +175,15 @@ Stripe réessaie automatiquement plusieurs fois. Vous recevez des notifications 
 </details>
 
 <details>
+
 <summary><strong>Puis-je payer par facture/virement ?</strong></summary>
 
-Le paiement par carte est standard. Pour les grands comptes (Network), des arrangements peuvent être discutés avec le support.
+Le paiement par carte est standard. Pour les grands comptes (Franchises), des arrangements peuvent être discutés avec le support.
 
 </details>
 
 <details>
+
 <summary><strong>La TVA est-elle incluse ?</strong></summary>
 
 Les prix affichés incluent la TVA suisse (si applicable). Les factures détaillent le montant HT et la TVA.
@@ -185,8 +191,9 @@ Les prix affichés incluent la TVA suisse (si applicable). Les factures détaill
 </details>
 
 <details>
+
 <summary><strong>Puis-je changer la fréquence de paiement ?</strong></summary>
 
-Actuellement, les abonnements sont annuels. Des options mensuelles pourraient être disponibles à l'avenir.
+Actuellement, les abonnements sont annuels ou saisonnier (6 mois).
 
 </details>

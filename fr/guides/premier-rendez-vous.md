@@ -8,23 +8,25 @@ Ce guide vous montre comment créer un rendez-vous, que ce soit depuis le dashbo
 
 1. Connectez-vous à PitStoply
 2. Depuis le **Dashboard**, cliquez sur **Nouveau rendez-vous**
-   - Ou allez dans **Rendez-vous > Créer**
+   * Ou allez dans **Rendez-vous > Créer**
 
 ### Étape 2 : Sélectionner le client
 
 Deux options :
 
-| Option | Quand l'utiliser |
-|--------|------------------|
+| Option              | Quand l'utiliser                   |
+| ------------------- | ---------------------------------- |
 | **Client existant** | Le client est déjà dans votre base |
-| **Nouveau client** | Première visite du client |
+| **Nouveau client**  | Première visite du client          |
 
 **Pour un client existant :**
+
 1. Tapez le nom, prénom ou numéro de téléphone
 2. Sélectionnez le client dans la liste
 3. Choisissez le véhicule concerné (ou ajoutez-en un)
 
 **Pour un nouveau client :**
+
 1. Cliquez sur **Nouveau client**
 2. Remplissez les informations de base (nom, téléphone)
 3. Ajoutez un véhicule (plaque d'immatriculation obligatoire)
@@ -33,10 +35,10 @@ Deux options :
 
 Sélectionnez le type de service :
 
-| Service | Description | Durée type |
-|---------|-------------|------------|
-| Changement de roues | Échange roues complètes | 30 min |
-| Changement de pneus | Montage/démontage sur jantes | 45 min |
+| Service             | Description                  | Durée type |
+| ------------------- | ---------------------------- | ---------- |
+| Changement de roues | Échange roues complètes      | 30 min     |
+| Changement de pneus | Montage/démontage sur jantes | 45 min     |
 
 {% hint style="info" %}
 La durée et le prix peuvent être personnalisés dans **Paramètres > Services**.
@@ -47,13 +49,14 @@ La durée et le prix peuvent être personnalisés dans **Paramètres > Services*
 1. Sélectionnez la **succursale** (si plusieurs)
 2. Choisissez la **date** dans le calendrier
 3. Sélectionnez un **créneau disponible**
-   - Les créneaux grisés sont déjà pris ou hors horaires
+   * Les créneaux grisés sont déjà pris ou hors horaires
 
-{% hint style="tip" %}
+{% hint style="info" %}
 **Astuce** : Si aucun créneau n'est disponible, vérifiez :
-- Les horaires configurés pour ce jour
-- Les blocages/fermetures éventuels
-- La synchronisation calendrier externe
+
+* Les horaires configurés pour ce jour
+* Les blocages/fermetures éventuels
+* La synchronisation calendrier externe
 {% endhint %}
 
 ### Étape 5 : Confirmer
@@ -64,13 +67,13 @@ La durée et le prix peuvent être personnalisés dans **Paramètres > Services*
 
 Le rendez-vous apparaît maintenant dans votre calendrier !
 
----
+***
 
 ## Méthode 2 : Réservation en ligne (par le client)
 
 ### Comment ça marche pour vos clients
 
-1. Le client accède à votre page : `pitstoply.ch/votre-slug`
+1. Le client accède à votre page : `app.pitstoply.ch/votre-slug`
 2. Il sélectionne le service souhaité
 3. Il choisit la date et le créneau
 4. Il remplit ses coordonnées
@@ -78,19 +81,19 @@ Le rendez-vous apparaît maintenant dans votre calendrier !
 
 ### Ce que vous voyez
 
-- Le rendez-vous apparaît automatiquement dans votre calendrier
-- Vous recevez une notification (si configuré)
-- Le client reçoit une confirmation par email (et SMS si activé)
+* Le rendez-vous apparaît automatiquement dans votre calendrier
+* Vous recevez une notification (si configuré)
+* Le client reçoit une confirmation par email (et SMS si activé)
 
 ### Partager votre lien de réservation
 
-| Méthode | Avantage |
-|---------|----------|
-| **QR Code** | Idéal pour affichage en vitrine |
-| **Lien direct** | Pour emails, site web, réseaux sociaux |
-| **Bouton intégré** | Pour votre site web existant |
+| Méthode            | Avantage                               |
+| ------------------ | -------------------------------------- |
+| **QR Code**        | Idéal pour affichage en vitrine        |
+| **Lien direct**    | Pour emails, site web, réseaux sociaux |
+| **Bouton intégré** | Pour votre site web existant           |
 
----
+***
 
 ## Méthode 3 : Via le QR Code client
 
@@ -105,7 +108,7 @@ Si vous avez déjà des clients dans votre base :
 **Avantage** : Le client n'a pas à ressaisir ses informations à chaque réservation.
 {% endhint %}
 
----
+***
 
 ## Après la création
 
@@ -128,29 +131,31 @@ Le créneau redevient disponible pour d'autres réservations.
 ### Marquer comme effectué
 
 Après avoir réalisé le service :
+
 1. Ouvrez le rendez-vous
 2. Changez le statut en **Terminé**
 
 Cela met à jour vos statistiques et libère le créneau définitivement.
 
----
+***
 
 ## Statuts des rendez-vous
 
-| Statut | Signification | Couleur |
-|--------|---------------|---------|
-| **En attente** | Réservé, pas encore confirmé | Jaune |
-| **Confirmé** | Confirmé par vous ou le système | Bleu |
-| **En cours** | Le client est là, travail en cours | Violet |
-| **Terminé** | Service effectué | Vert |
-| **Annulé** | Rendez-vous annulé | Rouge |
-| **Absent** | Client ne s'est pas présenté | Gris |
+| Statut         | Signification                      | Couleur |
+| -------------- | ---------------------------------- | ------- |
+| **En attente** | Réservé, pas encore confirmé       | Jaune   |
+| **Confirmé**   | Confirmé par vous ou le système    | Bleu    |
+| **En cours**   | Le client est là, travail en cours | Violet  |
+| **Terminé**    | Service effectué                   | Vert    |
+| **Annulé**     | Rendez-vous annulé                 | Rouge   |
+| **Absent**     | Client ne s'est pas présenté       | Gris    |
 
----
+***
 
 ## Questions fréquentes
 
 <details>
+
 <summary><strong>Le client peut-il modifier son RDV lui-même ?</strong></summary>
 
 Oui ! Chaque email de confirmation contient un lien de modification. Le client peut changer la date/heure ou annuler.
@@ -158,6 +163,7 @@ Oui ! Chaque email de confirmation contient un lien de modification. Le client p
 </details>
 
 <details>
+
 <summary><strong>Comment bloquer un créneau sans créer de RDV ?</strong></summary>
 
 Utilisez la fonction **Blocages** dans Paramètres > Fermetures pour bloquer des créneaux spécifiques.
@@ -165,6 +171,7 @@ Utilisez la fonction **Blocages** dans Paramètres > Fermetures pour bloquer des
 </details>
 
 <details>
+
 <summary><strong>Puis-je créer un RDV récurrent ?</strong></summary>
 
 Actuellement, chaque rendez-vous doit être créé individuellement. Une fonction de récurrence est prévue.
