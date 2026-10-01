@@ -28,7 +28,7 @@ Utilisez cette checklist pour vous assurer que tout est prêt avant d'inviter vo
 * [ ] **Favicon configuré**
   * Icône affichée dans l'onglet du navigateur
 * [ ] **Hero Image uploadé**
-  * Image de fond d'écran sur la pagea de réservations client
+  * Image de fond d'écran sur la page de réservations client
   * Format recommandé : JPG
   * Dimension idéales : 1920x1080 pixels minimum
 

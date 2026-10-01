@@ -7,6 +7,7 @@ Personnalisez l'apparence de PitStoply pour refléter l'identité de votre garag
 | Élément | Où il apparaît |
 |---------|----------------|
 | **Logo** | Header, emails, page de réservation |
+| **Image hero** | Bannière de la page de réservation publique |
 | **Favicon** | Onglet du navigateur |
 | **Thème/Couleurs** | Toute l'interface |
 | **Polices** | Titres et textes |
@@ -44,6 +45,31 @@ Personnalisez l'apparence de PitStoply pour refléter l'identité de votre garag
 
 ---
 
+## Image hero
+
+L'image hero est la grande bannière affichée en haut de votre page de réservation publique.
+
+### Télécharger votre image hero
+
+1. Allez dans **Paramètres > Apparence**
+2. Section **Image hero**
+3. Cliquez sur **Télécharger**
+4. Sélectionnez votre fichier
+
+### Spécifications recommandées
+
+| Critère | Recommandation |
+|---------|----------------|
+| **Format** | JPG, PNG, GIF, WEBP, AVIF ou HEIC |
+| **Dimensions** | 1920x1080 pixels (redimensionnée automatiquement si plus grande) |
+| **Taille max** | 2 MB |
+
+{% hint style="info" %}
+L'image est automatiquement optimisée et compressée à l'enregistrement.
+{% endhint %}
+
+---
+
 ## Favicon
 
 Le favicon est la petite icône affichée dans l'onglet du navigateur.
@@ -58,8 +84,9 @@ Le favicon est la petite icône affichée dans l'onglet du navigateur.
 
 | Critère | Recommandation |
 |---------|----------------|
-| **Format** | PNG, ICO ou SVG |
+| **Format** | PNG, ICO, SVG, JPG, GIF ou WEBP |
 | **Dimensions** | 32x32 ou 64x64 pixels |
+| **Taille max** | 512 KB |
 | **Forme** | Carré |
 
 {% hint style="info" %}
@@ -120,19 +147,7 @@ Pour aller plus loin, personnalisez les couleurs individuellement :
 
 ### Polices disponibles
 
-PitStoply permet de choisir parmi plusieurs familles de polices :
-
-**Pour les titres :**
-- Inter (défaut, moderne)
-- Roboto
-- Poppins
-- Montserrat
-
-**Pour le texte :**
-- Inter (défaut)
-- Open Sans
-- Lato
-- Source Sans Pro
+PitStoply permet de choisir une police pour les titres et une pour le texte, parmi une même liste partagée d'une vingtaine de familles (Inter, Roboto, Open Sans, Montserrat, Poppins, Lato, Nunito, Source Sans 3, Manrope, Work Sans, Raleway, Playfair Display, et d'autres). Inter est la police par défaut pour les titres et le texte.
 
 ### Changer les polices
 

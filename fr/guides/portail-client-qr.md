@@ -110,10 +110,11 @@ Le client voit :
 
 ### Réservation depuis le portail
 
-1. Le client clique sur **Prendre RDV**
-2. Il sélectionne un véhicule (ou en ajoute un)
-3. Il choisit le service, la date et le créneau
-4. Il confirme - pas besoin de ressaisir ses coordonnées !
+1. Le client vérifie son identité en confirmant son adresse email
+2. Le client clique sur **Prendre RDV**
+3. Il sélectionne un véhicule (ou en ajoute un)
+4. Il choisit le service, la date et le créneau
+5. Il confirme - pas besoin de ressaisir ses coordonnées !
 
 ---
 
@@ -137,7 +138,7 @@ Les véhicules ajoutés par le client sont immédiatement visibles dans votre in
 <details>
 <summary><strong>Le client peut-il modifier ses informations ?</strong></summary>
 
-Oui, le client peut mettre à jour son téléphone et son email depuis son portail. Vous verrez les modifications dans sa fiche.
+Oui, le client peut mettre à jour son téléphone et son email depuis son portail. S'il modifie son email, un lien de confirmation lui est envoyé à la nouvelle adresse : le changement n'est appliqué qu'après validation de ce lien. Vous verrez les modifications dans sa fiche une fois confirmées.
 
 </details>
 

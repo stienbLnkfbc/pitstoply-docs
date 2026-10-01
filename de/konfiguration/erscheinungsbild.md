@@ -7,6 +7,7 @@ Passen Sie das Erscheinungsbild von PitStoply an, um die Identität Ihrer Werkst
 | Element | Wo es erscheint |
 |---------|-----------------|
 | **Logo** | Header, E-Mails, Buchungsseite |
+| **Hero-Bild** | Banner der öffentlichen Buchungsseite |
 | **Favicon** | Browser-Tab |
 | **Theme/Farben** | Gesamte Oberfläche |
 | **Schriften** | Titel und Texte |
@@ -44,6 +45,31 @@ Passen Sie das Erscheinungsbild von PitStoply an, um die Identität Ihrer Werkst
 
 ---
 
+## Hero-Bild
+
+Das Hero-Bild ist das grosse Banner oben auf Ihrer öffentlichen Buchungsseite.
+
+### Ihr Hero-Bild hochladen
+
+1. Gehen Sie zu **Einstellungen > Erscheinungsbild**
+2. Abschnitt **Hero-Bild**
+3. Klicken Sie auf **Hochladen**
+4. Wählen Sie Ihre Datei
+
+### Empfohlene Spezifikationen
+
+| Kriterium | Empfehlung |
+|-----------|------------|
+| **Format** | JPG, PNG, GIF, WEBP, AVIF oder HEIC |
+| **Abmessungen** | 1920x1080 Pixel (wird bei Bedarf automatisch verkleinert) |
+| **Max. Grösse** | 2 MB |
+
+{% hint style="info" %}
+Das Bild wird beim Speichern automatisch optimiert und komprimiert.
+{% endhint %}
+
+---
+
 ## Favicon
 
 Das Favicon ist das kleine Symbol, das im Browser-Tab angezeigt wird.
@@ -58,8 +84,9 @@ Das Favicon ist das kleine Symbol, das im Browser-Tab angezeigt wird.
 
 | Kriterium | Empfehlung |
 |-----------|------------|
-| **Format** | PNG, ICO oder SVG |
+| **Format** | PNG, ICO, SVG, JPG, GIF oder WEBP |
 | **Abmessungen** | 32x32 oder 64x64 Pixel |
+| **Max. Grösse** | 512 KB |
 | **Form** | Quadratisch |
 
 {% hint style="info" %}
@@ -120,19 +147,7 @@ Für mehr Anpassung können Sie Farben einzeln anpassen:
 
 ### Verfügbare Schriften
 
-PitStoply ermöglicht die Auswahl aus mehreren Schriftfamilien:
-
-**Für Titel:**
-- Inter (Standard, modern)
-- Roboto
-- Poppins
-- Montserrat
-
-**Für Text:**
-- Inter (Standard)
-- Open Sans
-- Lato
-- Source Sans Pro
+PitStoply ermöglicht die Auswahl je einer Schrift für Titel und Text aus einer gemeinsamen Liste von rund zwanzig Schriftfamilien (Inter, Roboto, Open Sans, Montserrat, Poppins, Lato, Nunito, Source Sans 3, Manrope, Work Sans, Raleway, Playfair Display und weitere). Inter ist die Standardschrift für Titel und Text.
 
 ### Schriften ändern
 

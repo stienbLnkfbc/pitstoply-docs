@@ -16,7 +16,7 @@ PitStoply bietet mehrere Pläne, die an die Grösse Ihrer Werkstatt angepasst si
 | **Theme-Personalisierung** | ✅ | ✅ | ✅ |
 | **PDF-Berichte** | ✅ | ✅ | ✅ |
 | **Externe Kalendersync** | ✅ | ✅ | ✅ |
-| **Benutzerdefinierte Domain** | ❌ | ✅ | ✅ |
+| **Benutzerdefinierte Domain** | ❌ | demnächst | demnächst |
 | **Prioritäts-Support** | ❌ | ✅ | ✅ |
 
 ## Welchen Plan wählen?

@@ -16,9 +16,9 @@ PitStoply propose plusieurs plans adaptés à la taille de votre garage.
 | **Notifications SMS**                                                  | ✅ (crédits)    | ✅ (crédits)    |                         |
 | **Personnalisation thème**                                             | ✅              | ✅              |                         |
 | **Rapports PDF**                                                       | ✅              | ✅              |                         |
-| **Domaine personnalisé**                                               | ❌              | ✅              |                         |
+| **Domaine personnalisé**                                               | ❌              | prochainement  |                         |
 | **Support prioritaire**                                                | ❌              | ✅              |                         |
-| **Sync calendrier externe**                                            | prochainement  | prochainement  | prochainement           |
+| **Sync calendrier externe**                                            | ✅              | ✅              |                         |
 
 ## Quel plan choisir ?
 

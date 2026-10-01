@@ -110,10 +110,11 @@ Der Kunde sieht:
 
 ### Buchung über das Portal
 
-1. Der Kunde klickt auf **Termin buchen**
-2. Er wählt ein Fahrzeug (oder fügt eines hinzu)
-3. Er wählt Service, Datum und Zeitfenster
-4. Er bestätigt - keine erneute Eingabe seiner Kontaktdaten!
+1. Der Kunde bestätigt seine Identität über seine E-Mail-Adresse
+2. Der Kunde klickt auf **Termin buchen**
+3. Er wählt ein Fahrzeug (oder fügt eines hinzu)
+4. Er wählt Service, Datum und Zeitfenster
+5. Er bestätigt - keine erneute Eingabe seiner Kontaktdaten!
 
 ---
 
@@ -137,7 +138,7 @@ Vom Kunden hinzugefügte Fahrzeuge sind sofort in Ihrer PitStoply-Oberfläche si
 <details>
 <summary><strong>Kann der Kunde seine Daten ändern?</strong></summary>
 
-Ja, der Kunde kann Telefon und E-Mail über sein Portal aktualisieren. Sie sehen die Änderungen in seiner Karte.
+Ja, der Kunde kann Telefon und E-Mail über sein Portal aktualisieren. Bei einer E-Mail-Änderung wird ein Bestätigungslink an die neue Adresse gesendet: die Änderung wird erst nach dessen Bestätigung wirksam. Sie sehen die Änderungen in seiner Karte, sobald sie bestätigt wurden.
 
 </details>
 
