@@ -9,7 +9,6 @@ Les notifications SMS sont facturées via un système de crédits prépayés.
 | **Pack 50** | 9 CHF | 50 | 0.18 CHF |
 | **Pack 150** | 19 CHF | 150 | 0.13 CHF |
 | **Pack 500** | 49 CHF | 500 | 0.10 CHF |
-| **Pack 1000** | 79 CHF | 1000 | 0.08 CHF |
 
 {% hint style="tip" %}
 **Recommandation** : Pour un usage régulier, le Pack 500 offre le meilleur rapport qualité-prix.

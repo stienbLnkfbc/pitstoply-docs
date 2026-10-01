@@ -9,7 +9,6 @@ SMS-Benachrichtigungen werden über ein Prepaid-Guthaben-System abgerechnet.
 | **Paket 50** | 9 CHF | 50 | 0.18 CHF |
 | **Paket 150** | 19 CHF | 150 | 0.13 CHF |
 | **Paket 500** | 49 CHF | 500 | 0.10 CHF |
-| **Paket 1000** | 79 CHF | 1000 | 0.08 CHF |
 
 {% hint style="tip" %}
 **Empfehlung**: Für regelmässige Nutzung bietet das Paket 500 das beste Preis-Leistungs-Verhältnis.
