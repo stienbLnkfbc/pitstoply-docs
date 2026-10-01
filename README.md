@@ -35,4 +35,4 @@ Bienvenue dans la documentation officielle de **PitStoply**, votre solution de g
 ---
 
 **Version**: 1.0
-**Dernière mise à jour / Letzte Aktualisierung**: Januar 2026
+**Dernière mise à jour / Letzte Aktualisierung**: Octobre 2026 / Oktober 2026
